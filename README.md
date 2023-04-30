@@ -1,16 +1,6 @@
 # flutter_level_up
 
-A new Flutter project.
+플러터 현업 수준으로 끌어올리기 프로젝트 모음(블로그 웹 앱, 전자액자, 만난 지 며칠 U&I, 디지털 주사위, 동영상 플레이어, 영상 통화, 오늘도 출첵, 포토 스티커, 코팩튜브, 일정 관리 앱)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

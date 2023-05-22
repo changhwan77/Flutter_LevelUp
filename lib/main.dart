@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_level_up/screen/webview_screen.dart';
-import 'package:flutter_level_up/screen/pageview_screen.dart';
-import 'package:flutter_level_up/screen/dday_screen.dart';
+import 'package:flutter_level_up/screen/calendar_screen.dart';
 
 void main() {
   runApp(
@@ -23,7 +21,7 @@ void main() {
           bodyText2: TextStyle(color: Colors.white, fontSize: 20.0),
         ),
       ),
-      home: DdayScreen(),
+      home: CalendarScreen(),
     ),
   );
 }

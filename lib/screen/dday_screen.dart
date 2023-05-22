@@ -47,7 +47,7 @@ class _DdayScreenState extends State<DdayScreen> {
               firstDay: firstDay,
               onHeartPressed: onHeartPressed,
             ),
-            _CoupleImage(),
+            const _CoupleImage(),
           ],
         ),
       ),
